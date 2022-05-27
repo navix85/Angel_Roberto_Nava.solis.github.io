@@ -25,5 +25,7 @@ of on-chain metrics vs. big data for prediction
 in cryptocurrency markets.	
 </blockquote></center></h3>
   <h4>certification<br>
- <a href='https://www.credly.com/badges/04bd8aa8-b565-47b6-a390-7aa62dc9e6d4?source=linked_in_profile'>Data Science Methodologies </a> </h4>
+ <a href='https://www.credly.com/badges/04bd8aa8-b565-47b6-a390-7aa62dc9e6d4?source=linked_in_profile'>Data Science Methodologies </a><br>
+ <a href='https://www.credly.com/badges/ba214c98-024a-435a-97ce-1739d1f840e3?source=linked_in_profile'>IBM Blockchain Foundation Developer V2</a><br>
+ </h4>
 
