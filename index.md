@@ -1,4 +1,4 @@
-<head><h1>
+<h1>
 <center>Angel Roberto Nava Solis</center></h1>
 </head>	
 <body>
