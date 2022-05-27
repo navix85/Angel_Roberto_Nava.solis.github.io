@@ -1,3 +1,6 @@
+< HTML > 
+<head> Angel Roberto Nava   Solis </head>
+<img src="https://drive.google.com/file/d/1koWce3F_z5xal_oUjTfAX3a_vAHuCxUb/view?usp=sharing">
 I am a doctoral candidate in Accounting and Finance, 
 Faculty of Accounting and Administration (FACPYA) of
 the Autonomous University of Nuevo León (UANL). 
@@ -13,3 +16,4 @@ thesis advisor Dr. Martha del Pilar Rodríguez,
 in my line of research is the price prediction 
 of on-chain metrics vs. big data for prediction 
 in cryptocurrency markets.
+< / HTML >
