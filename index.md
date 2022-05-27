@@ -27,5 +27,14 @@ in cryptocurrency markets.
   <h4>certification<br>
  <a href='https://www.credly.com/badges/04bd8aa8-b565-47b6-a390-7aa62dc9e6d4?source=linked_in_profile'>Data Science Methodologies </a><br>
  <a href='https://www.credly.com/badges/ba214c98-024a-435a-97ce-1739d1f840e3?source=linked_in_profile'>IBM Blockchain Foundation Developer V2</a><br>
- </h4>
+ <a href='https://www.credly.com/badges/809dcd60-5c4e-4315-9ad9-a8fbd3e94eb6?source=linked_in_profile'>IBM Blockchain Essentials V2</a><br>
+ <a href='https://www.credly.com/badges/20ae3132-9df2-4522-af40-90e7bba1171b?source=linked_in_profile'>R Essentials</a><br>
+ <a href='https://drive.google.com/file/d/11qvq268A5GDDDoV9mVUTdFGXBgbTVDUQ/view'>technical analysis for financial markets</a><br>
+</h4>
+  <br>
+  <h5>congresses and conferences<br><br>
+ <a href='https://drive.google.com/file/d/1_GmUSLtb62746kZAs_q6GrptrlBe2vPR/view?usp=sharing'>XXI Congress of the International Association for 
+ Fuzzy-Set Management and Economy “Digital Era and fuzzy
+   applications in Management and Economy”</h5>
+  
 
