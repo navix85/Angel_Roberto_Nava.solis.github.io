@@ -1,6 +1,6 @@
 
 <head> Angel Roberto Nava   Solis </head>
-<img src="https://drive.google.com/file/d/1koWce3F_z5xal_oUjTfAX3a_vAHuCxUb/view?usp=sharing">
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQGLFk7j-NShnA/profile-displayphoto-shrink_800_800/0/1564516154383?e=1658966400&v=beta&t=2TjqSk6QnKqhMWf50NxBh96Fi_50S1OqOPw7qh48EKI">
 I am a doctoral candidate in Accounting and Finance, 
 Faculty of Accounting and Administration (FACPYA) of
 the Autonomous University of Nuevo León (UANL). 
