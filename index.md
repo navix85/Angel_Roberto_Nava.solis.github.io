@@ -1,7 +1,7 @@
 <h1>
 <center>Angel Roberto Nava Solis</center></h1>
 <body>
-<right><div class='subtitle'><h2> |<a href='https://drive.google.com/file/d/1_0iS-HBJ11Gx4K6I_klwnuaIPihwRCqY/view?usp=sharing'> CV</a> | <a href='https://scholar.google.co.uk/citations?view_op=search_authors&mauthors=author:%22Angel+Roberto+Nava-Solis%22&hl=en&oi=ao'> Google Scholar</a> | <a href='https://github.com/navix85'> GitHub</a>|<a href='https://www.linkedin.com/in/angel-roberto-nava-solis-91581543'> Linkedin</a>| <a href='mailto:angel.navas@uanl.edu.mx'> Angel.navas@uanl.edu.mx | </a><right> </h2></div>
+<right><div class='subtitle'><h2> |<a href='https://drive.google.com/file/d/1_0iS-HBJ11Gx4K6I_klwnuaIPihwRCqY/view?usp=sharing'> CV</a> | <a href='https://scholar.google.co.uk/citations?view_op=search_authors&mauthors=author:%22Angel+Roberto+Nava-Solis%22&hl=en&oi=ao'> Google Scholar</a> | <a href='https://github.com/navix85'> GitHub</a>|<a href='https://www.linkedin.com/in/angel-roberto-nava-solis-91581543'> Linkedin</a>| <a href='mailto:angel.navas@uanl.edu.mx'> Angel.navas@uanl.edu.mx |</a><right></h2></div><br>
 <div class="hbar"></div>
 <div class="profile">
 <div class="profile-left">
