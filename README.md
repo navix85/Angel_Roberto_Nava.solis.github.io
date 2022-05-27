@@ -3,7 +3,7 @@
 </head>	
 <body>
 <div class='title'></h1></div>
-<div class='subtitle'><h2><a href='https://drive.google.com/file/d/1_0iS-HBJ11Gx4K6I_klwnuaIPihwRCqY/view?usp=sharing', download='CV ANGEL-ROBERTO-NAVA'>CV</a> | <a href='https://scholar.google.co.uk/citations?view_op=search_authors&mauthors=author:%22Angel+Roberto+Nava-Solis%22&hl=en&oi=ao'>Google Scholar</a> | <a href='https://github.com/navix85'>GitHub</a> | <a href='mailto:angel.navas@uanl.edu.mx'> Angel.navas@uanl.edu.mx </h2></div>
+<div class='subtitle'><h2><a href='https://drive.google.com/file/d/1_0iS-HBJ11Gx4K6I_klwnuaIPihwRCqY/view?usp=sharing', download='CV ANGEL-ROBERTO-NAVA'>CV</a> | <a href='https://scholar.google.co.uk/citations?view_op=search_authors&mauthors=author:%22Angel+Roberto+Nava-Solis%22&hl=en&oi=ao'>Google Scholar</a> | <a href='https://github.com/navix85'>GitHub</a>|<a href='https://www.linkedin.com/in/angel-roberto-nava-solis-91581543'>linkedin</a>| <a href='mailto:angel.navas@uanl.edu.mx'> Angel.navas@uanl.edu.mx </h2></div>
 <div class="hbar"></div>
 <div class="profile">
 <div class="profile-left">
@@ -25,4 +25,3 @@ thesis advisor Dr. Martha del Pilar Rodríguez,
 in my line of research is the price prediction 
 of on-chain metrics vs. big data for prediction 
 in cryptocurrency markets.</h2>
-
