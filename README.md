@@ -1,4 +1,3 @@
-
 <head><h1>
 <center>Angel Roberto Nava Solis</center></h1>
 </head>	
