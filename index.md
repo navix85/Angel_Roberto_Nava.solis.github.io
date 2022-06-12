@@ -40,3 +40,10 @@ predictively in financial markets. my line of
    </h5>
   
 
+ <h6>Upcoming conferences<br><br>
+ 
+ <a href='https://congresofimef.org.mx/en/'>XII Conference is sponsored by the Research Foundation of the Mexican Institute of Finance Executives (IMEF)</a><XII Conference is sponsored by the Research Foundation of the Mexican Institute of Finance Executives (IMEF)br><br>
+ </h6>
+
+ 
+
