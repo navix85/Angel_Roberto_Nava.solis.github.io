@@ -1,9 +1,10 @@
 <h1>
 <center>Angel Roberto Nava Solis</center></h1>
 <body>
-<right><div class='subtitle'><h2> |<a href='https://drive.google.com/file/d/1_0iS-HBJ11Gx4K6I_klwnuaIPihwRCqY/view?usp=sharing'> CV</a> | <a href='https://scholar.google.co.uk/citations?view_op=search_authors&mauthors=author:%22Angel+Roberto+Nava-Solis%22&hl=en&oi=ao'> Google Scholar</a> | <a href='https://github.com/navix85'> GitHub</a>|<a href='https://www.linkedin.com/in/angel-roberto-nava-solis-91581543'> Linkedin</a>| <a href='mailto:angel.navas@uanl.edu.mx'> Angel.navas@uanl.edu.mx | </a></h2></div></right><br>
+<right><div class='subtitle'><h2> |<a href='https://drive.google.com/file/d/1bBh7LrQq63VClRb61LyOuoUZtO_3ML8o/view?usp=sharing)'> CV</a> | <a href='https://scholar.google.co.uk/citations?view_op=search_authors&mauthors=author:%22Angel+Roberto+Nava-Solis%22&hl=en&oi=ao'> Google Scholar</a> | <a href='https://github.com/navix85'> GitHub</a>|<a href='https://www.linkedin.com/in/angel-roberto-nava-solis-91581543'> Linkedin</a>| <a href='mailto:angel.navas@uanl.edu.mx'> Angel.navas@uanl.edu.mx | </a></h2></div></right><br>
 <div class="hbar"></div>
-<div class="profile">
+<div class="profile">[
+](https://drive.google.com/file/d/1bBh7LrQq63VClRb61LyOuoUZtO_3ML8o/view?usp=sharing)
 <div class="profile-left">
 <body><center><img src="https://media-exp1.licdn.com/dms/image/C5603AQGLFk7j-NShnA/profile-displayphoto-shrink_800_800/0/1564516154383?e=1658966400&v=beta&t=2TjqSk6QnKqhMWf50NxBh96Fi_50S1OqOPw7qh48EKI"
 width="220"
@@ -40,7 +41,7 @@ predictively in financial markets. my line of
    </h5>
   
 
- <h6>Upcoming conferences<br><br>
+ <h6>Upcoming conferences <br><br>
  
  <a href='https://congresofimef.org.mx/en/'>XII Conference is sponsored by the Research Foundation of the Mexican Institute of Finance Executives (IMEF)</a><br><br>
  </h6>
