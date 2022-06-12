@@ -18,18 +18,19 @@ the way things are connected. Professionally,
 I am passionate about all aspects of doing new
 ways of researching metrics through efficient 
 software, how to make it work faster and more 
-predictively in financial markets. where my 
-thesis advisor Dr. Martha del Pilar Rodríguez, 
-in my line of research is the price prediction 
-of on-chain metrics vs. big data for prediction 
-in cryptocurrency markets.	
+predictively in financial markets. my line of 
+ research is price prediction of chain metrics 
+ against big data, random forest regressions and
+ Arima models in R language for prediction in
+ the cryptocurrency markets.	
 </blockquote></center></h3>
   <h4>Certification<br>
- <a href='https://www.credly.com/badges/04bd8aa8-b565-47b6-a390-7aa62dc9e6d4?source=linked_in_profile'>Data Science Methodologies </a><br>
- <a href='https://www.credly.com/badges/ba214c98-024a-435a-97ce-1739d1f840e3?source=linked_in_profile'>IBM Blockchain Foundation Developer V2</a><br>
- <a href='https://www.credly.com/badges/809dcd60-5c4e-4315-9ad9-a8fbd3e94eb6?source=linked_in_profile'>IBM Blockchain Essentials V2</a><br>
- <a href='https://www.credly.com/badges/20ae3132-9df2-4522-af40-90e7bba1171b?source=linked_in_profile'>R Essentials</a><br>
- <a href='https://drive.google.com/file/d/11qvq268A5GDDDoV9mVUTdFGXBgbTVDUQ/view'>technical analysis for financial markets</a><br>
+ <a href='https://www.credly.com/badges/04bd8aa8-b565-47b6-a390-7aa62dc9e6d4?source=linked_in_profile'>Data Science Methodologies </a><br><br>
+ <a href='https://www.credly.com/badges/ba214c98-024a-435a-97ce-1739d1f840e3?source=linked_in_profile'>IBM Blockchain Foundation Developer V2</a><br><br>
+ <a href='https://www.credly.com/badges/809dcd60-5c4e-4315-9ad9-a8fbd3e94eb6?source=linked_in_profile'>IBM Blockchain Essentials V2</a><br><br>
+ <a href='https://www.credly.com/badges/20ae3132-9df2-4522-af40-90e7bba1171b?source=linked_in_profile'>R Essentials</a><br><br>
+ <a href='https://www.credly.com/badges/165e283c-086c-4144-a647-f7470401f992'>Machine Learning with R</a><br><br>
+ <a href='https://drive.google.com/file/d/11qvq268A5GDDDoV9mVUTdFGXBgbTVDUQ/view'>technical analysis for financial markets</a><br><br>
 </h4>
   <br>
   <h5>congresses and conferences<br><br>
