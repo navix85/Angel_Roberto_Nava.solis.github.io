@@ -23,9 +23,10 @@ predictively in financial markets. my line of
  research is price prediction of chain metrics 
  against big data, random forest regressions and
  Arima models in R language for prediction in
- the cryptocurrency markets.	
-</blockquote></center></h3>
+ the cryptocurrency markets
+</blockquote></center></h3><br><br>
   <h4>Certification<br><br><br>
+  
  <a href='https://www.credly.com/badges/04bd8aa8-b565-47b6-a390-7aa62dc9e6d4?source=linked_in_profile'>Data Science Methodologies </a><br><br>
  <a href='https://www.credly.com/badges/ba214c98-024a-435a-97ce-1739d1f840e3?source=linked_in_profile'>IBM Blockchain Foundation Developer V2</a><br><br>
  <a href='https://www.credly.com/badges/809dcd60-5c4e-4315-9ad9-a8fbd3e94eb6?source=linked_in_profile'>IBM Blockchain Essentials V2</a><br><br>
