@@ -6,8 +6,8 @@ CV</a> | <a href='https://scholar.google.co.uk/citations?viewop=search_authors&m
 <div class="hbar"></div>
 <div class="profile">
 <div class="profile-left">
-<body><center><img src="https://media-exp1.licdn.com/dms/image/C5603AQGLFk7j-NShnA/profile-displayphoto-shrink_800_800/0/1564516154383?e=1658966400&v=beta&t=2TjqSk6QnKqhMWf50NxBh96Fi_50S1OqOPw7qh48EKI"
-width="220"
+<body><center><img src="https://drive.google.com/file/d/1Q2KMbL9L-CIGfor2Fj_CbsOTxwn6U5EG/view?usp=drivesdk"
+width="250"
 height="210"></center></body>
 <h3><center><blockquote>I am a doctoral candidate in Accounting and Finance, 
 Faculty of Accounting and Administration (FACPYA) of
