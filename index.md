@@ -7,8 +7,8 @@ CV</a> | <a href='https://scholar.google.co.uk/citations?viewop=search_authors&m
 <div class="profile">
 <div class="profile-left">
 <body><center><img src="https://drive.google.com/file/d/1Q2KMbL9L-CIGfor2Fj_CbsOTxwn6U5EG/view?usp=drivesdk"
-width="272"
-height="260"></center></body>
+width="252"
+height="250"></center></body>
 <h3><center><blockquote>I am a doctoral candidate in Accounting and Finance, 
 Faculty of Accounting and Administration (FACPYA) of
 the Autonomous University of Nuevo León (UANL). 
@@ -22,7 +22,7 @@ software, how to make it work faster and more
 predictively in financial markets. my line of 
  research is price prediction of chain metrics 
  against big data, random forest regressions and
- Ramdon forest  models in R language for prediction in
+ Arima models in R language for prediction in
  the cryptocurrency markets
 </blockquote></center></h3><br><br>
   <h4>Certification<br><br><br>
