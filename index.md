@@ -7,7 +7,7 @@ CV</a> | <a href='https://scholar.google.co.uk/citations?viewop=search_authors&m
 <div class="profile">
 <div class="profile-left">
 
-<body><center><img src= "https://drive.google.com/file/d/1Q2KMbL9L-CIGfor2Fj_CbsOTxwn6U5EG/view?usp=drivesdk"
+<body><center><img src= "https://drive.google.com/file/d/1koWce3F_z5xal_oUjTfAX3a_vAHuCxUb/view?usp=drivesdk"
 width="252"
 height="250"></center></body>
 
