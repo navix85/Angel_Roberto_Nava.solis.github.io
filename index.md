@@ -2,12 +2,12 @@
 <center>Angel Roberto Nava Solis</center></h1>
 <body>
 <right><div class='subtitle'><h2> |<a href='https://drive.google.com/file/d/1bBh7LrQq63VClRb61LyOuoUZtO_3ML8o/view?usp=sharing'>
-CV</a> | <a href='https://scholar.google.co.uk/citations?viewop=search_authors&mauthors=author:%22Angel+Roberto+Nava-Solis%22&hl=en&oi=ao'> Google Scholar</a> | <a href='https://github.com/navix85'> GitHub</a>|<a href='https://www.linkedin.com/in/angel-roberto-nava-solis-91581543'> Linkedin</a>| <a href='mailto:angel.navas@uanl.edu.mx'> Angel.navas@uanl.edu.mx | </a></h2></div></right><br>
+CV</a> | <a href='https://scholar.google.co.uk/citations?viewop=search_authors&mauthors=author:%22Angel+Roberto+Nava-Solis%22&hl=en&oi=ao'> Google Scholar</a> | <a href='https://github.com/navix85'> GitHub</a>|<a href='https://www.linkedin.com/in/angel-roberto-n-91581543'> Linkedin</a>| <a href='mailto:angel.navas@uanl.edu.mx'> Angel.navas@uanl.edu.mx | </a></h2></div></right><br>
 <div class="hbar"></div>
 <div class="profile">
 <div class="profile-left">
 
-<body><center><img src= "https://drive.google.com/file/d/1koWce3F_z5xal_oUjTfAX3a_vAHuCxUb/view?usp=drivesdk"
+<body><center><img src="https://drive.google.com/file/d/1koWce3F_z5xal_oUjTfAX3a_vAHuCxUb/view?usp=drivesdk"
 width="252"
 height="250"></center></body>
 
