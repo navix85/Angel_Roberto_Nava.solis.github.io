@@ -6,9 +6,11 @@ CV</a> | <a href='https://scholar.google.co.uk/citations?viewop=search_authors&m
 <div class="hbar"></div>
 <div class="profile">
 <div class="profile-left">
-<body><center><img src="https://drive.google.com/file/d/1Q2KMbL9L-CIGfor2Fj_CbsOTxwn6U5EG/view?usp=drivesdk"
+
+<body><center><img src= "https://drive.google.com/file/d/1Q2KMbL9L-CIGfor2Fj_CbsOTxwn6U5EG/view?usp=drivesdk"
 width="252"
 height="250"></center></body>
+
 <h3><center><blockquote>I am a doctoral candidate in Accounting and Finance, 
 Faculty of Accounting and Administration (FACPYA) of
 the Autonomous University of Nuevo León (UANL). 
