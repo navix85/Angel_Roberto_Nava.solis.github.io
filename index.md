@@ -35,6 +35,7 @@ predictively in financial markets. my line of
  <a href='https://www.credly.com/badges/20ae3132-9df2-4522-af40-90e7bba1171b?source=linked_in_profile'>R Essentials</a><br><br>
  <a href='https://www.credly.com/badges/165e283c-086c-4144-a647-f7470401f992'>Machine Learning with R</a><br><br>
  <a href='https://drive.google.com/file/d/11qvq268A5GDDDoV9mVUTdFGXBgbTVDUQ/view'>technical analysis for financial markets</a><br><br>
+ <a href='https://www.coursera.org/account/accomplishments/certificate/HMBJ5XJ8RTA9'>CFA Statistics for Machine Learning for Investment Professionals</a><br><br>
 </h4>
   <br>
   <h5>congresses and conferences<br><br>
