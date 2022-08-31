@@ -7,7 +7,7 @@ CV</a> | <a href='https://scholar.google.co.uk/citations?viewop=search_authors&m
 <div class="profile">
 <div class="profile-left">
 
-<body><center><img src="https://drive.google.com/file/d/1koWce3F_z5xal_oUjTfAX3a_vAHuCxUb/view?usp=drivesdk"
+<body><center><img src="https://d4-invdn-com.investing.com/company_logo/9c7852cc4682199c27e488c1d4861342.jpg?width=170&height=170"
 width="252"
 height="250"></center></body>
 
