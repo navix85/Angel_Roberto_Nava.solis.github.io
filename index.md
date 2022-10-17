@@ -12,20 +12,7 @@ width="252"
 height="250"></center></body>
 
 <h3><center><blockquote>I am a doctoral candidate in Accounting and Finance, 
-Faculty of Accounting and Administration (FACPYA) of
-the Autonomous University of Nuevo León (UANL). 
-I love financial markets, car racing and hiking.
-very intuitive and curious who investigates and 
-learns in a self-taught way, he is inspired by 
-the way things are connected. Professionally, 
-I am passionate about all aspects of doing new
-ways of researching metrics through efficient 
-software, how to make it work faster and more 
-predictively in financial markets. my line of 
- research is price prediction of chain metrics 
- against big data, random forest regressions and
- Arima models in R language for prediction in
- the cryptocurrency markets
+I am a PhD candidate in Accounting, Faculty of Accounting and Administration (FACPYA) of the Autonomous University of Nuevo León (UANL). I love financial markets, car racing and hiking. very intuitive and curious who investigates and learns in a self-taught way, he is inspired by the way things are connected. Professionally, I am passionate about all aspects of making new ways to investigate metrics through efficient software, how to make it work faster and more predictively in the financial markets. my line of research is price prediction of metric chains against big data, radom forest regressions and Arima models in R language for prediction in cryptocurrency markets, geospatial analysis in R language.
 </blockquote></center></h3><br><br>
   <h4>Certification<br><br><br>
   
