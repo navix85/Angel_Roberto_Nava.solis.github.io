@@ -35,7 +35,7 @@ I am a PhD candidate in Accounting, Faculty of Accounting and Administration (FA
 
  <h6>Upcoming conferences <br><br>
  
- <a href='https://congresofimef.org.mx/en/'>XII Conference is sponsored by the Research Foundation of the Mexican Institute of Finance Executives (IMEF)</a><br><br>
+ 
  <a href='https://cgscholar.com/cg_event/events/Tes23/about'>XIX Congreso Internacional de Tecnología, Conocimiento y Sociedad Universidad de Malta</a><br><br>
  </h6>
 
