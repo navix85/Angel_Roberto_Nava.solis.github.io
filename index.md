@@ -28,7 +28,7 @@ I am a PhD candidate in Accounting, Faculty of Accounting and Administration (FA
   <h5>congresses and conferences<br><br>
  <a href='https://drive.google.com/file/d/1_GmUSLtb62746kZAs_q6GrptrlBe2vPR/view?usp=sharing'>XXI Congress of the International Association for 
  Fuzzy-Set Management and Economy “Digital Era and fuzzy
-   applications in Management and Economy”</a>
+   applications in Management and Economy”</a>  <br> <br>
      <a href='https://drive.google.com/file/d/1E7Mv1ixLQwkVAMtMCgJAsmjAv9nAtab7/view'> XXII Congress, to take place in Elche (Alicante), Spain 11 july 2023.Association for Fuzzy-Set Management and Economy “Digital Era and fuzzy
    applications in Management and Economy”</a>
    </h5>
